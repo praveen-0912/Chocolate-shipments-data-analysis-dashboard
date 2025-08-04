@@ -6,8 +6,8 @@ To provide a comprehensive and interactive view of the chocolate company’s sal
 
 ## This dashboard visualizes company-wide performance data across several dimensions including:
 
-Revenue and profit trends
-Geographical sales distribution
-Product-wise sales and profitability
-Salesperson performance
-Shipment activity
+-Revenue and profit trends
+-Geographical sales distribution
+-Product-wise sales and profitability
+-Salesperson performance
+-Shipment activity
