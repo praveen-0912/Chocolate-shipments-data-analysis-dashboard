@@ -10,4 +10,6 @@ To provide a comprehensive and interactive view of the chocolate company’s sal
 - Product-wise sales and profitability?
 - Salesperson performance?
 - Shipment activity?
+  
+- Dash Interaction  <a href="https://github.com/praveen-0912/Chocolate-shipments-data-analysis-dashboard/blob/main/chocolate%20dashboard%20.png"> View Dashboard<a/>
 
