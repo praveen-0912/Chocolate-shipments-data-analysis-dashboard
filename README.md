@@ -1,5 +1,5 @@
-# Chocolates Sales Performance (interactive Dashboard creation using Powerbi)
-## objective
+# Chocolates Sales Performance (Interactive Dashboard creation using Powerbi)
+## Objective
 To provide a comprehensive and interactive view of the chocolate company’s sales performance by tracking key metrics such as total revenue, profit, shipments, products, regions, and salespeople over time. The dashboard supports strategic decision-making by offering real-time, data-driven insights
 ## Dataset used
 - <a href="https://github.com/praveen-0912/Chocolate-shipments-data-analysis-dashboard/blob/main/sample-chocolate-shipments-data-all-Apr-2025.xlsx">Dataset</a>
