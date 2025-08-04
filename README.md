@@ -13,7 +13,7 @@ To provide a comprehensive and interactive view of the chocolate company’s sal
   
 - Dash Interaction  <a href="https://github.com/praveen-0912/Chocolate-shipments-data-analysis-dashboard/blob/main/chocolate%20dashboard%20.png"> View Dashboard<a/>
 
-## conclusion 
+## Final conclusion 
 The "Chocolates Report" dashboard offers a centralized, interactive, and insightful view of the company’s sales operations. With high profitability and strong performance in select regions and products, the business is well-positioned for expansion. However, targeted actions should be taken on underperforming products and low-margin regions. This dashboard empowers stakeholders to make quick, informed decisions with confidence.
 
 ## Dashboard
