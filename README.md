@@ -1,2 +1,2 @@
-# Chocolate-shipments-data-analysis-dashboard
-The Chocolates Report dashboard is a comprehensive and interactive Power BI report designed to monitor and evaluate the sales performance, shipment activity, product profitability, and regional revenue distribution of a chocolate company over time.
+chocolates sales Performance Dashboard using Powerbi
+To provide a comprehensive and interactive view of the chocolate company’s sales performance by tracking key metrics such as total revenue, profit, shipments, products, regions, and salespeople over time. The dashboard supports strategic decision-making by offering real-time, data-driven insights
